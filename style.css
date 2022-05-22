@@ -2,9 +2,9 @@ body {
   background-color: darkgray;
   color: white;
   font-family: Helvetica, Arial, sans-serif;
-  width: 700px;
+  width: 800px;
   margin: auto;
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 20px;
 }
 
