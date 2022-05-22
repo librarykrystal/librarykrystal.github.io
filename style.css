@@ -6,6 +6,8 @@ body {
   margin: auto;
   border: 5px solid black;
   padding: 20px;
+  outline-style: double;
+  outline-color: gray;
 }
 
 .name {
@@ -15,23 +17,63 @@ body {
   background-color: rgba(255,255,255,0.15);
 }
 
-.name span {
+.email {
   color: rgba(255,255,255,0.7);
+  margin-top: -7px;
 }
 
 .summary {
   text-align: justify;
-  padding-top: 15px;
+  padding-top: 10px;
 }
 
 .exp-header {
   text-transform: uppercase;
   border-top: 1px solid #909090;
   padding-top: 15px;
+  margin-bottom: 25px;
+  margin-top: 28px;
+  color: rgba(255,255,255,0.5);
 }
 
 .edu-header {
   text-transform: uppercase;
   border-top: 1px solid #909090;
   padding-top: 15px;
+  margin-bottom: 25px;
+  color: rgba(255,255,255,0.5);
+}
+
+.lflist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.poblist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.falist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.tpllist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.lsilist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.ailist {
+  margin-top: -13px;
+  margin-bottom: 32px;
+}
+
+.school {
+  margin-top: -13px;
 }
