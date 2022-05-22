@@ -1,1 +1,28 @@
 
+body {
+  background-color: darkgray;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 10% 10%;
+}
+
+.name {
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: rgba(0,0,0,0.2)
+}
+
+.summary {
+  text-align: justify;
+}
+
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid black;
+}
+
+.edu-header {
+  text-transform: uppercase;
+  border-top: 1px solid black;
+}
