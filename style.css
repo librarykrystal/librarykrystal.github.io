@@ -3,6 +3,7 @@ body {
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   width: 900px;
+  margin: auto;
 }
 
 .grid-container {
