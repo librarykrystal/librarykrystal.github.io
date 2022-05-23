@@ -7,7 +7,7 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 40% 40% auto;
+  grid-template-columns: 40% 30% auto;
   gap: 5px;
   background-image: url("https://live.staticflickr.com/4048/4452639598_b5e4093f61_b.jpg");
   padding: 10px;
@@ -94,7 +94,7 @@ body {
 }
 
 img {
-  width: 200px;
+  width: 280px;
 
 }
 
